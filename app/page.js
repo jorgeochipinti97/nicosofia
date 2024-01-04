@@ -67,7 +67,7 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="flex justify-center">
+        <div className="flex justify-center mt-10 lg:mt-0">
           <div
             className="md:grid md:grid-cols-3 flex w-screen  justify-center  md:w-fit "
             style={{ flexWrap: "wrap" }}
